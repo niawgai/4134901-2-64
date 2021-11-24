@@ -8,7 +8,8 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 >รหัสนักศึกษา 443020183-007
 
 ###link LAB
-
+[LAB1](https://github.com/niawgai/4134901-2-64/tree/main/4134901-007/LAB1)
+[LAB2](https://github.com/niawgai/4134901-2-64/tree/main/LAB2)
 
 ##RUN
 **LAB1**
